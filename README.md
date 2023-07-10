@@ -3,8 +3,7 @@
 [![Latest Version][ico-version]][link-packagist]
 [![Latest Unstable Version][ico-unstable-version]][link-packagist]
 [![Software License][ico-license]](LICENSE)
-[![Build Status](https://github.com/BitBagCommerce/SyliusCalloutPlugin/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/BitBagCommerce/SyliusCalloutPlugin/actions/workflows/build.yml)
-[![Quality Score][ico-code-quality]][link-code-quality]
+[![Build](https://github.com/BitBagCommerce/SyliusCalloutPlugin/actions/workflows/build.yaml/badge.svg?branch=master)](https://github.com/BitBagCommerce/SyliusCalloutPlugin/actions/workflows/build.yaml)
 
 The callout plugin for [Sylius](https://sylius.com/) allows you to configure nice badges for different set of products
 based on specific rules. It provides a common set of configuration by default and is very flexible when it comes to adding new ones.
